@@ -1,6 +1,6 @@
-### Sup 👋
+### Hello 👾
 
-- 🔭 Working Data Analysis
+- 🔭 Working on Data Analysis
 - 🌱 Learning Big Data and Machine Learning
 
 <!--
