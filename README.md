@@ -1,8 +1,8 @@
-# Nicolás
+# Nicolás Chirino
 
 ### Hello! 👋
 
-Fifth year student of Computer and Telecommunications Engineering.
+I'm a fifth year student of Computer and Telecommunications Engineering at Universidad Diego Portales, Santiago, Chile. I like to do anything software development / cloud deployment / machine learning related stuff. I mostly upload university and personal projects.
 
 ### Tools 🛠️
 
