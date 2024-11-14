@@ -1,7 +1,20 @@
-# Sup! 👋
-
-I'm Nico :) I'm a Computer Science and Telecommunications Engineering student, here I develop my university and personal projects. Recently I've keen interest in developing AI applications and cloud computing.
-
-### Tools 🛠️
-
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png" alt="Docker" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="24"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" alt="Python" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C" height="24">
+<h1 style="text-align: center">nicobrch 🐱</h1>
+<p style="text-align: center">Software engineer | Full-Stack Development | Machine Learning | Cloud DevOps</p>
+<h3 style="text-align: center">Checkout my </h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem">
+    <a href="https://www.linkedin.com/in/nicobrch/" style="display: flex; justify-content: center; align-items: center; gap: 0.5rem">
+        <img src="public/linkedin.webp" alt="Linkedin" height="16">
+        <p>Linkedin</p>
+    </a>
+    <a href="https://nicobrch.github.io/" style="display: flex; justify-content: center; align-items: center; gap: 0.5rem">
+        <img src="public/nextjs.webp" alt="NextJs" height="18">
+        <p>Web Portfolio</p>
+    </a>
+</div>
+<h3 style="text-align: center">Tools 🛠️</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem">
+    <img src="public/docker.webp" alt="Docker" height="16">
+    <img src="public/ts.webp" alt="Typescript" height="16">
+    <img src="public/python.webp" alt="Python" height="16">
+    <img src="public/cpp.webp" alt="C++" height="16">
+</div>
