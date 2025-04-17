@@ -2,7 +2,7 @@
 
 <p align="center">Software Engineer | Gen AI | Computer Vision | Cloud</p>
 
-<h3>Contact me:
+<h3 align="center">Contact me:
     <a href="https://www.linkedin.com/in/nicobrch/">
         <img src="public/logos/linkedin.webp" alt="Linkedin" height="20" style="vertical-align: middle; margin-left: 0.5rem;">
     </a>
@@ -11,7 +11,7 @@
     </a>
 </h3>
 
-<h3>Tools:
+<h3 align="center">Tools:
     <img src="public/logos/python.webp" alt="Python" height="20" style="vertical-align: middle; margin-left: 0.5rem;">
     <img src="public/logos/docker.webp" alt="Docker" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
     <img src="public/logos/ts.webp" alt="Typescript" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
