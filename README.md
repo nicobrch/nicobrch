@@ -1,20 +1,27 @@
 <h1 align="center">nicobrch 🐱</h1>
 
-<p align="center">Software Engineer | AI & Data | Machine Learning | Cloud Certified</p>
+<p align="center">Software Engineer | Gen AI | Computer Vision | Cloud</p>
 
-<h3 align="center">Contact me</h3>
-
-<div align="center" style="gap: 0.5rem">
+<h3>Contact me:
     <a href="https://www.linkedin.com/in/nicobrch/">
-        <img src="public/linkedin.webp" alt="Linkedin" height="32">
+        <img src="public/logos/linkedin.webp" alt="Linkedin" height="20" style="vertical-align: middle; margin-left: 0.5rem;">
     </a>
-</div>
+    <a href="mailto:nicolas.brch@gmail.com">
+        <img src="public/logos/mail.webp" alt="Linkedin" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
+    </a>
+</h3>
 
-<h3 align="center">Tools 🛠️</h3>
+<h3>Tools:
+    <img src="public/logos/python.webp" alt="Python" height="20" style="vertical-align: middle; margin-left: 0.5rem;">
+    <img src="public/logos/docker.webp" alt="Docker" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
+    <img src="public/logos/ts.webp" alt="Typescript" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
+    <img src="public/logos/cpp.webp" alt="C++" height="20" style="vertical-align: middle; margin-left: 0.25rem;">
+    <img src="public/logos/golang.webp" alt="GoLang" height="12" style="vertical-align: middle; margin-left: 0.25rem;">
+</h3>
 
-<div align="center" style="gap: 0.5rem">
-    <img src="public/docker.webp" alt="Docker" height="32">
-    <img src="public/ts.webp" alt="Typescript" height="32">
-    <img src="public/python.webp" alt="Python" height="32">
-    <img src="public/cpp.webp" alt="C++" height="32">
-</div>
+<div align="center">
+    <img src="public/certs/gcp_ace.webp" alt="Python" height="64" style="vertical-align: middle; margin-left: 0.5rem; margin-top: 0.5rem">
+    <img src="public/certs/az900.webp" alt="Docker" height="64" style="vertical-align: middle; margin-left: 0.25rem;">
+    <img src="public/certs/ai900.webp" alt="Typescript" height="64" style="vertical-align: middle; margin-left: 0.25rem;">
+    <img src="public/certs/gitfnd.webp" alt="Typescript" height="64" style="vertical-align: middle; margin-left: 0.25rem;">
+<div>
