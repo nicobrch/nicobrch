@@ -1,6 +1,6 @@
 <h1 align="center">nicobrch 🐱</h1>
 
-<p align="center">Software Engineer | AI & Data | Machine Learning | Cloud DevOps</p>
+<p align="center">Software Engineer | AI & Data | Machine Learning | Cloud Certified</p>
 
 <h3 align="center">Contact me</h3>
 
